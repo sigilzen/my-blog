@@ -1,7 +1,10 @@
 +++
-date = '2026-05-02T16:32:43+08:00'
-draft = false
-title = 'Hello World'
+title: "Hello World"
+date: 2026-05-02T10:00:00+08:00
+draft: false
+tags: ["General"]
+categories: ["Blog"]
+
 +++
 
 # 第一篇hugo blog

@@ -1,0 +1,17 @@
+---
+title: "部署hugo blog"
+date: 2026-05-02T18:14:36+08:00
+draft: false
+language: en
+featured_image: ../assets/images/featured/featured-img-placeholder.png
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
+author: TailBliss
+authorimage: ../assets/images/global/author.webp
+categories: News
+tags: news
+---
+
+今天在cloudflare上成功部署了hugo blog。算是开启了现代化的blog之路。
+
+之前的typecho的文章慢慢迁移到这里吧。以后的blog发布，接入Hermes or openclaw，就更加的自动化了。
