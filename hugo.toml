@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://my-blog-bwb.pages.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '我的个人博客'
 theme = "PaperMod"
