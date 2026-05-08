@@ -75,7 +75,7 @@ params:
   # 页面模块1 (通常用于首页区块)
   p1:
     heading: "我的使命" # 区块标题
-    image: "images/pages/our-mission.png" # 区块配图
+    image: "images/pages/RocketStart.png" # 区块配图
     content: # 区块文本内容段落
       - text: "这里可以填写关于你博客的核心价值或个人简介。"
       - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
