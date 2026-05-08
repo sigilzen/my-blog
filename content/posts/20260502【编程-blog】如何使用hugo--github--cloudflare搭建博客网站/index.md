@@ -3,7 +3,7 @@ title: "当前最流行的姿势用hugo--github--cloudflare搭建博客网站"
 date: 2026-05-02T18:14:36+08:00
 draft: false
 language: en
-featured_image: "./assets/cover.jpg"
+featured_image: ./assets/cover.jpg
 summary: 如何使用当前最流行的姿势搭建博客网站，hugo、github、cloudflare三剑客联合使用
 author: xxj
 authorimage: ../assets/images/global/author.webp
