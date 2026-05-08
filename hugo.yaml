@@ -64,11 +64,11 @@ markup:
 
 # 主题自定义参数
 params:
-  author: Nusser Studios # 作者名称
+  author: xxj # 作者名称
   authorimage: ../assets/images/global/author.webp # 作者头像路径
   og_image: /images/tailbliss-cover.png # Open Graph 默认分享图片，用于社交媒体卡片
-  moto: "Super Fast, and Flexible" # 网站座右铭/格言
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format." # 网站描述 (SEO)
+  moto: "人的一生全靠奋斗，唯有奋斗才能成功！" # 网站座右铭/格言
+  description: "记录工作、学习和生活的点点滴滴！" # 网站描述 (SEO)
   disable_theme_toggle: false # 是否禁用右上角的 暗黑/白天 模式切换按钮
   disable_stay_uptodate: true # 是否禁用“保持更新/邮件订阅”模块
 
@@ -158,6 +158,10 @@ params:
 menu:
   # 主导航菜单 (顶部)
   main:
+    - identifier: blog # 唯一标识符
+      name: 博客 # 菜单显示名称
+      url: /categories/blog/ # 链接地址
+      weight: 5 # 权重，决定排序，数字越小越靠前
     - identifier: prose # 唯一标识符
       name: Prose # 菜单显示名称
       url: /prose/ # 链接地址
