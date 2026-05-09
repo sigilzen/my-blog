@@ -64,32 +64,32 @@ markup:
 
 # 主题自定义参数
 params:
-  author: 星X舰 # 作者名称
+  author: 星X箭 # 作者名称
   authorimage: ../assets/images/global/author.webp # 作者头像路径 
   og_image: "images/pages/RocketStart.png" # Open Graph 默认分享图片，用于社交媒体卡片
   image: "images/pages/RocketStart.png" # 手工添加的图片
   moto: "人的一生全靠奋斗，唯有奋斗才能成功！" # 网站座右铭/格言
-  description: "记录工作、学习和生活的点点滴滴！编程、命理、量化、雕刻" # 网站描述 (SEO)
+  description: "记录学习、生活与工作的思考和探索！" # 网站描述 (SEO)
   disable_theme_toggle: false # 是否禁用右上角的 暗黑/白天 模式切换按钮
   disable_stay_uptodate: true # 是否禁用“保持更新/邮件订阅”模块
 
   # 页面模块1 (通常用于首页区块) 
   p1:
-    heading: "我的使命" # 区块标题
+    heading: "我来填尔一峰青" # 区块标题
     image: "images/pages/earth-china-nasa.jpg" # 区块配图
     content: # 区块文本内容段落
       - text: "探索语言的边界，追寻思想的轨迹，丈量代码的深度，雕琢生命的质感。"
-      - text: "四轮驱动，驱动人生：命理探本源，编程筑骨架，量化添利刃，雕刻精气神。"
+      - text: ""
       - text: ""
   
   # 页面模块2
   p2:
-    heading: "技术栈与项目"
+    heading: "精雕细琢"
     image: "images/pages/diaoke.png"
     content:
-      - text: "发扬将人精神，做最棒的自己!"
-      - text: "精益求精"
-      - text: "命理+编程+量化+雕刻，4个飞轮，驱动人生"
+      - text: "匠人精神，精益求精!"
+      - text: ""
+      - text: "四轮驱动，驱动人生：命理探本源，编程筑骨架，量化添利刃，雕刻精气神。"
       - type: "table"                  # 支持在首页区块展示表格
         columns:
           - heading: "Column 1"
