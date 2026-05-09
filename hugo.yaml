@@ -69,7 +69,7 @@ params:
   og_image: "images/pages/RocketStart.png" # Open Graph 默认分享图片，用于社交媒体卡片
   image: "images/pages/RocketStart.png" # 手工添加的图片
   moto: "人的一生全靠奋斗，唯有奋斗才能成功！" # 网站座右铭/格言
-  description: "记录工作、学习和生活的点点滴滴！编程、命理、量化、雕刻4" # 网站描述 (SEO)
+  description: "记录工作、学习和生活的点点滴滴！编程、命理、量化、雕刻" # 网站描述 (SEO)
   disable_theme_toggle: false # 是否禁用右上角的 暗黑/白天 模式切换按钮
   disable_stay_uptodate: true # 是否禁用“保持更新/邮件订阅”模块
 
@@ -78,9 +78,9 @@ params:
     heading: "我的使命" # 区块标题
     image: "images/pages/RocketStart.png" # 区块配图
     content: # 区块文本内容段落
-      - text: "这里可以填写关于你博客的核心价值或个人简介。"
-      - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
-      - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
+      - text: "探索语言的边界，追寻思想的轨迹，丈量代码的深度，雕琢生命的质感。"
+      - text: "四轮驱动，驱动人生：命理探本源，编程筑骨架，量化添利刃，雕刻精气神。"
+      - text: ""
   
   # 页面模块2
   p2:
@@ -188,9 +188,9 @@ menu:
   
   # 普通分类菜单 (作为 Categories 的下拉子菜单内容)
   categories:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: games
+      name: Games
+      url: /games/dazhuankuai.html
       weight: 10
     - identifier: about
       name: About
