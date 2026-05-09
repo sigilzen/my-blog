@@ -3,7 +3,7 @@ title: "南怀瑾所传珍贵功法“乞丐蹲”：此法至简，功效显著
 date: 2026-05-04T22:10:36+08:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/featured-img-placeholder.png
+featured_image: ../assets/images/featured/featured-img-健身房.jpg
 summary: 人体最喜欢的姿势是什么？既不是躺，也不是坐，而是蹲。
 author: xxj
 authorimage: ../assets/images/global/author.webp
