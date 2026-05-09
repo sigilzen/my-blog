@@ -1,7 +1,7 @@
 # 网站基础URL，即你的网站的根域名
 baseURL: "https://blog.allinone.us.kg/"
 # 网站标题
-title: 星X舰的All in One
+title: 星X箭的All in One
 # 默认语言代码，zh-cn代表简体中文
 languageCode: zh-cn
 # 使用的Hugo主题名称
@@ -88,7 +88,6 @@ params:
     heading: "精雕细琢"
     image: "images/pages/diaoke.png"
     content:
-      - text: "匠人精神，精益求精!"
       - text: "命理探本源，编程筑骨架，"
       - text: "量化添利刃，雕刻精气神。"
       - type: "table"                  # 支持在首页区块展示表格
@@ -108,8 +107,8 @@ params:
   p3:
     heading: "志同道合"
     content:
-      - text: "欢迎关注我的朋友们。"
-      - text: "让我们携手共同来探索！"
+      - text: "欢迎关注我的朋友。"
+      - text: "让我们携手索共创！"
     links: # 链接按钮
       - text: 合作
         url: "#"
@@ -171,14 +170,6 @@ menu:
       name: 命理 # 菜单显示名称
       url: /destiny/ # 链接地址
       weight: 6 # 权重，决定排序，数字越小越靠前
-    - identifier: programing # 唯一标识符
-      name: 编程 # 菜单显示名称
-      url: /programing/ # 链接地址
-      weight: 7 # 权重，决定排序，数字越小越靠前
-    - identifier: sculpture # 唯一标识符
-      name: 雕刻 # 菜单显示名称
-      url: /sculpture/ # 链接地址
-      weight: 8 # 权重，决定排序，数字越小越靠前
     - identifier: stocks # 唯一标识符
       name: 股票 # 菜单显示名称
       url: /stocks/ # 链接地址
