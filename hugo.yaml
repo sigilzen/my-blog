@@ -76,7 +76,7 @@ params:
   # 页面模块1 (通常用于首页区块) 
   p1:
     heading: "我的使命" # 区块标题
-    image: "images/pages/RocketStart.png" # 区块配图
+    image: "images/pages/earth-china-nasa.jpg" # 区块配图
     content: # 区块文本内容段落
       - text: "探索语言的边界，追寻思想的轨迹，丈量代码的深度，雕琢生命的质感。"
       - text: "四轮驱动，驱动人生：命理探本源，编程筑骨架，量化添利刃，雕刻精气神。"
