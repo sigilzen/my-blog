@@ -9,7 +9,7 @@ featured_image: ../assets/images/featured/featured-img-placeholder.png
 
 # 一位数字自由人的自我介绍 :blush:
 
-### **你好，我是 凹印万（all-in-one) 👋**
+### **你好，我是 星X箭（all-in-one) 👋**
 
 这里是我记录思考、技术实验与生活碎片的地方。如果用几个关键词来定义我，那大概是：**架构师 / 量化交易者 / 数字化玄学研究员**。
 
