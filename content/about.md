@@ -4,7 +4,7 @@ date: 2026-05-04T22:31:36+08:00
 draft: false
 language: zh-cn
 description: About Us
-featured_image: ../assets/images/global/aboutme.jpg
+featured_image: ../assets/images/global/aboutme.png
 ---
 
 # 一位数字自由人的自我介绍 :blush:
