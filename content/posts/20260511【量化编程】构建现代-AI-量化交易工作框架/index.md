@@ -1,7 +1,7 @@
 ---
 title: "构建现代 AI 量化交易工作框架" 
 date: 2026-05-11 
-author：xxj
+author: xxj
 categories: ["blog"] 
 tags: ["技术框架", "QMT", "量化", "AI"] 
 draft: false
